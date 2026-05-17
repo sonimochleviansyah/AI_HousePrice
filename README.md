@@ -85,7 +85,7 @@ Railway Deployment:
 
 Custom Domain:
 
-housepredict.my.id
+https://www.housepredict.my.id/
 
 ---
 
@@ -134,7 +134,7 @@ project-root/
 
 # 🎥 Presentation Video
 
-YouTube:
+YouTube: https://youtu.be/Qq1ve7mLcHg?si=N6bo24GKvr3nPkRj
 
 (Insert YouTube Link Here)
 
